@@ -1,0 +1,6 @@
+*.user
+*.user.*
+build-*
+debug/
+release/
+Thumbs.db
