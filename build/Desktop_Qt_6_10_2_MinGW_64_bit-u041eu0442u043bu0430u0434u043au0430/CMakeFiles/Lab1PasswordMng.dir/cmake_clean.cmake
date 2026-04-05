@@ -1,6 +1,10 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Lab1PasswordMng.dir/Lab1PasswordMng_autogen/mocs_compilation.cpp.obj"
   "CMakeFiles/Lab1PasswordMng.dir/Lab1PasswordMng_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/Lab1PasswordMng.dir/accountrepository.cpp.obj"
+  "CMakeFiles/Lab1PasswordMng.dir/accountrepository.cpp.obj.d"
+  "CMakeFiles/Lab1PasswordMng.dir/accounttablemodel.cpp.obj"
+  "CMakeFiles/Lab1PasswordMng.dir/accounttablemodel.cpp.obj.d"
   "CMakeFiles/Lab1PasswordMng.dir/main.cpp.obj"
   "CMakeFiles/Lab1PasswordMng.dir/main.cpp.obj.d"
   "CMakeFiles/Lab1PasswordMng.dir/mainwindow.cpp.obj"

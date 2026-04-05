@@ -11,6 +11,10 @@ qt_add_executable(Lab1PasswordMng
     mainwindow.cpp
     mainwindow.h
     mainwindow.ui
+    account.h
+    accounttablemodel.h
+    accounttablemodel.cpp
+    accountrepository.h accountrepository.cpp
 )
 
 target_link_libraries(Lab1PasswordMng

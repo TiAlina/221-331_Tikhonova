@@ -2,6 +2,12 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QList>
+#include <QSortFilterProxyModel>
+
+#include "account.h"
+#include "accounttablemodel.h"
+#include "accountrepository.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -14,10 +20,15 @@ class MainWindow : public QMainWindow
     Q_OBJECT
 
 public:
-    explicit MainWindow(QWidget *parent = nullptr);
-    ~MainWindow() override;
+    MainWindow(QWidget *parent = nullptr);
+    ~MainWindow();
 
 private:
     Ui::MainWindow *ui;
+    QList<Account> accounts;
+    AccountTableModel *model;
+    QSortFilterProxyModel *proxyModel;
+    AccountRepository repository;
 };
+
 #endif // MAINWINDOW_H

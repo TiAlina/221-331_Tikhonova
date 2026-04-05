@@ -223,6 +223,54 @@ Lab1PasswordMng_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab1PasswordMng.dir\build.make CMakeFiles/Lab1PasswordMng.dir/Lab1PasswordMng_autogen/mocs_compilation.cpp.s
 .PHONY : Lab1PasswordMng_autogen/mocs_compilation.cpp.s
 
+accountrepository.obj: accountrepository.cpp.obj
+.PHONY : accountrepository.obj
+
+# target to build an object file
+accountrepository.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab1PasswordMng.dir\build.make CMakeFiles/Lab1PasswordMng.dir/accountrepository.cpp.obj
+.PHONY : accountrepository.cpp.obj
+
+accountrepository.i: accountrepository.cpp.i
+.PHONY : accountrepository.i
+
+# target to preprocess a source file
+accountrepository.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab1PasswordMng.dir\build.make CMakeFiles/Lab1PasswordMng.dir/accountrepository.cpp.i
+.PHONY : accountrepository.cpp.i
+
+accountrepository.s: accountrepository.cpp.s
+.PHONY : accountrepository.s
+
+# target to generate assembly for a file
+accountrepository.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab1PasswordMng.dir\build.make CMakeFiles/Lab1PasswordMng.dir/accountrepository.cpp.s
+.PHONY : accountrepository.cpp.s
+
+accounttablemodel.obj: accounttablemodel.cpp.obj
+.PHONY : accounttablemodel.obj
+
+# target to build an object file
+accounttablemodel.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab1PasswordMng.dir\build.make CMakeFiles/Lab1PasswordMng.dir/accounttablemodel.cpp.obj
+.PHONY : accounttablemodel.cpp.obj
+
+accounttablemodel.i: accounttablemodel.cpp.i
+.PHONY : accounttablemodel.i
+
+# target to preprocess a source file
+accounttablemodel.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab1PasswordMng.dir\build.make CMakeFiles/Lab1PasswordMng.dir/accounttablemodel.cpp.i
+.PHONY : accounttablemodel.cpp.i
+
+accounttablemodel.s: accounttablemodel.cpp.s
+.PHONY : accounttablemodel.s
+
+# target to generate assembly for a file
+accounttablemodel.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Lab1PasswordMng.dir\build.make CMakeFiles/Lab1PasswordMng.dir/accounttablemodel.cpp.s
+.PHONY : accounttablemodel.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -289,6 +337,12 @@ help:
 	@echo ... Lab1PasswordMng_autogen/mocs_compilation.obj
 	@echo ... Lab1PasswordMng_autogen/mocs_compilation.i
 	@echo ... Lab1PasswordMng_autogen/mocs_compilation.s
+	@echo ... accountrepository.obj
+	@echo ... accountrepository.i
+	@echo ... accountrepository.s
+	@echo ... accounttablemodel.obj
+	@echo ... accounttablemodel.i
+	@echo ... accounttablemodel.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

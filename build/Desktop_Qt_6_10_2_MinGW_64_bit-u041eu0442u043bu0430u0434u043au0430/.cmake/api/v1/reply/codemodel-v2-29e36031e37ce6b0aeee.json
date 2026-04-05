@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-06fbeea765aa99a6b0ca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lab1PasswordMng",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab1PasswordMng::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab1PasswordMng-Debug-fc4476b371464ee595d7.json",
+					"name" : "Lab1PasswordMng",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab1PasswordMng_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab1PasswordMng_autogen-Debug-34919baf3cf84241e525.json",
+					"name" : "Lab1PasswordMng_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab1PasswordMng_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab1PasswordMng_autogen_timestamp_deps-Debug-a397dcdedda5f5311c9a.json",
+					"name" : "Lab1PasswordMng_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Lab1PasswordMng/build/Desktop_Qt_6_10_2_MinGW_64_bit-u041eu0442u043bu0430u0434u043au0430",
+		"source" : "D:/Lab1PasswordMng"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

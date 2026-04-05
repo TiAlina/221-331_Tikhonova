@@ -29,23 +29,7 @@
            </widget>
           </item>
           <item>
-           <widget class="QTableWidget" name="tableWidgetAccounts">
-            <column>
-             <property name="text">
-              <string>сайт</string>
-             </property>
-            </column>
-            <column>
-             <property name="text">
-              <string>логин</string>
-             </property>
-            </column>
-            <column>
-             <property name="text">
-              <string>пароль</string>
-             </property>
-            </column>
-           </widget>
+           <widget class="QTableView" name="tableViewAccounts"/>
           </item>
          </layout>
         </item>
