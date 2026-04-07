@@ -1,6 +1,7 @@
 D:/Lab1PasswordMng/build/Desktop_Qt_6_10_2_MinGW_64_bit-u041eu0442u043bu0430u0434u043au0430/Lab1PasswordMng_autogen/EWIEGA46WW/moc_mainwindow.cpp: D:/Lab1PasswordMng/mainwindow.h \
   D:/Lab1PasswordMng/build/Desktop_Qt_6_10_2_MinGW_64_bit-u041eu0442u043bu0430u0434u043au0430/Lab1PasswordMng_autogen/moc_predefs.h \
   C:/Qt/6.10.2/mingw_64/include/QtCore/QAbstractTableModel \
+  C:/Qt/6.10.2/mingw_64/include/QtCore/QByteArray \
   C:/Qt/6.10.2/mingw_64/include/QtCore/QList \
   C:/Qt/6.10.2/mingw_64/include/QtCore/QSortFilterProxyModel \
   C:/Qt/6.10.2/mingw_64/include/QtCore/QString \

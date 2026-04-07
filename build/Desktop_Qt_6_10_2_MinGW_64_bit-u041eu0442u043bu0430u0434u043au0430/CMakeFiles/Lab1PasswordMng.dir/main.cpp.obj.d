@@ -398,6 +398,8 @@ CMakeFiles/Lab1PasswordMng.dir/main.cpp.obj: D:\Lab1PasswordMng\main.cpp \
  C:/Qt/6.10.2/mingw_64/include/QtCore/QAbstractTableModel \
  C:/Qt/6.10.2/mingw_64/include/QtCore/qabstractitemmodel.h \
  D:\Lab1PasswordMng\accountrepository.h \
+ C:/Qt/6.10.2/mingw_64/include/QtCore/QByteArray \
+ C:/Qt/6.10.2/mingw_64/include/QtCore/qbytearray.h \
  C:/Qt/6.10.2/mingw_64/include/QtWidgets/QApplication \
  C:/Qt/6.10.2/mingw_64/include/QtWidgets/qapplication.h \
  C:/Qt/6.10.2/mingw_64/include/QtCore/qcoreapplication.h \

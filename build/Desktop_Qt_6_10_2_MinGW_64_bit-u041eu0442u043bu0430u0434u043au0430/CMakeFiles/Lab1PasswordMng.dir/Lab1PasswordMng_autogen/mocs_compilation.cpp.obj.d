@@ -404,4 +404,6 @@ CMakeFiles/Lab1PasswordMng.dir/Lab1PasswordMng_autogen/mocs_compilation.cpp.obj:
  C:/Qt/6.10.2/mingw_64/include/QtCore/qabstractitemmodel.h \
  C:/Qt/6.10.2/mingw_64/include/QtCore/qregularexpression.h \
  D:/Lab1PasswordMng/accounttablemodel.h \
- D:/Lab1PasswordMng/accountrepository.h
+ D:/Lab1PasswordMng/accountrepository.h \
+ C:/Qt/6.10.2/mingw_64/include/QtCore/QByteArray \
+ C:/Qt/6.10.2/mingw_64/include/QtCore/qbytearray.h

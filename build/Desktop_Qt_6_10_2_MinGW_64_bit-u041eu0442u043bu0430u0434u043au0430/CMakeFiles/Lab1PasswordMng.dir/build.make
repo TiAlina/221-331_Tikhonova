@@ -161,6 +161,7 @@ Lab1PasswordMng.exe: CMakeFiles/Lab1PasswordMng.dir/accounttablemodel.cpp.obj
 Lab1PasswordMng.exe: CMakeFiles/Lab1PasswordMng.dir/accountrepository.cpp.obj
 Lab1PasswordMng.exe: CMakeFiles/Lab1PasswordMng.dir/build.make
 Lab1PasswordMng.exe: C:/Qt/6.10.2/mingw_64/lib/libQt6Widgets.a
+Lab1PasswordMng.exe: C:/Qt/Tools/mingw1310_64/opt/lib/libcrypto.dll.a
 Lab1PasswordMng.exe: C:/Qt/6.10.2/mingw_64/lib/libQt6Gui.a
 Lab1PasswordMng.exe: C:/Qt/6.10.2/mingw_64/lib/libQt6Core.a
 Lab1PasswordMng.exe: C:/Qt/6.10.2/mingw_64/lib/libQt6EntryPoint.a
